@@ -1,0 +1,6 @@
+rootProject.name='Fuxi01'
+include ':app'
+include ':login'
+include ':arouter'
+include ':annotation'
+include ':process'
